@@ -71,7 +71,7 @@ def runstrat():
     cerebro.run()
 
     # Plot the result
-    cerebro.plot(style='bar')
+    # cerebro.plot()
 
 
 def parse_args():
